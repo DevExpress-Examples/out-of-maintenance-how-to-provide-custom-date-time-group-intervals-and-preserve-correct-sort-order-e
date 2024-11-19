@@ -6,8 +6,7 @@ Imports System.Windows.Forms
 Imports DevExpress.XtraPivotGrid
 
 Namespace WindowsApplication21
-
-    Public Partial Class Form1
+    Partial Public Class Form1
         Inherits Form
 
         Public Sub New()
